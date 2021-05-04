@@ -1,1 +1,1 @@
-# praktikum-ci-database
+![Image of Imam Joming](imam-joming.jpg.png)
